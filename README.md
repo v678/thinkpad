@@ -1,0 +1,2 @@
+# thinkpad
+于2017年6月5日在ThinkPad S5上创建的第一个GitHub仓库
